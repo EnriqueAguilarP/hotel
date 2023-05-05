@@ -6,7 +6,8 @@ This is a simple website for a hotel that allows users to view rooms, amenities,
 1. Responsive design that adapts to different screen sizes and devices
 2. A small gallery build with SwiperJs.
 ![imagen](https://user-images.githubusercontent.com/99080355/236567763-6e9a2184-6c78-4397-aef5-cb942b77a801.png)
-![imagen](https://user-images.githubusercontent.com/99080355/236567723-6ee3adeb-dbf3-4d89-bede-11718719ba12.png)
+![imagen](https://user-images.githubusercontent.com/99080355/236568202-3a6af0de-84f0-4573-9801-4dc74cf9fae8.png)
+
 
 
 ## Technologies
