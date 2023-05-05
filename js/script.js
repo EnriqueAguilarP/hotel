@@ -24,3 +24,22 @@ var swiper = new Swiper(".home-slider", {
      prevEl: ".swiper-button-prev",
    },
  });
+
+ var swiper = new Swiper(".gallery-slider", {
+   loop: true,
+   effect: "coverflow",
+   centeredSlides: true,
+   slidesPerView: "auto",
+   grabCursor: true,
+   coverflowEffect: {
+      rotate: 0,
+      stretch: 0,
+      depth: 100,
+      modifier: 2,
+      slideShadows: true,
+    },
+    pagination: {
+      el: '.swiper-pagination'
+    }
+   
+ });
